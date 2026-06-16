@@ -1,2 +1,25 @@
-# supply-chain-pricing-calculator-and-quote-builder
-The Supply Chain Pricing Calculator and Quote Builder is a comprehensive digital template designed for logistics managers, procurement officers, and supply chain analysts. It streamlines the process of calculating product costs, including raw materials, labor, overhead, and shipping, while automatically factoring in desired profit margins. The temp
+# Supply Chain Pricing Calculator and Quote Builder
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/eVqcN5dPpbUE1deavOcZY19)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/eVqcN5dPpbUE1deavOcZY19)
+
